@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-generator"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-generator component"
+description = "systemd generator"
 upstream = []
 
 [contract]
